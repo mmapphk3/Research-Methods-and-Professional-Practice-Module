@@ -10,7 +10,7 @@ The malware disruption case study underscores the relevance of the ACM Code of E
 
 Similarly, the British Computer Society (BCS) Code of Conduct highlights the importance of protecting public interest and acting with integrity (BCS, 2011). Both the ACM and BCS codes stress that professionals must cooperate with authorities and follow legal procedures when addressing malware. The role of professionalism is key in both frameworks, requiring professionals to act honestly, transparently, and with care to resolve the problem without creating further harm. Ultimately, both codes guide computing professionals to handle malware incidents ethically and lawfully, preserving public trust while mitigating risks.
 
-### Reflective Actvity 2
+### Reflective Activity 2
 
 The Cambridge Analytica scandal in 2018 is a prominent example of unethical data harvesting from Facebook users without proper consent. Cambridge Analytica accessed data through personality quizzes, not only gathering respondents’ data but also their friends’. This information was then used for targeted political campaigns, such as the 2016 U.S. Presidential Election and Brexit (Confessore, 2018). The ethical breach lies in manipulating data collection under false pretenses, violating transparency and informed consent guidelines outlined in the ACM Code of Ethics (ACM, 2018) and the BCS Code of Conduct (BCS, 2019).
 
