@@ -2,7 +2,7 @@
 
 #### Exercise 7.1
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/pictures/ex7.1.png" alt="Agent 1 vs Agent 2" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/93b8f679510f2004346b6f9a88a085e3c9c5262e/pictures/ex7.1.png" alt="Agent 1 vs Agent 2" style="width: 100%;">
 <p>Fig1: Agent 1 vs Agent 2 </p>
 
 The one-tailed paired t-test result for determining whether Filter Agent 1 (Con1) is more effective than Filter Agent 2 (Con2) yields a t-statistic of approximately 2.87 and a p-value of 0.0092. Since the p-value is less than 0.05, we reject the null hypothesis and conclude that Filter Agent 1 is statistically more effective than Filter Agent 2 at the 5% significance level.
