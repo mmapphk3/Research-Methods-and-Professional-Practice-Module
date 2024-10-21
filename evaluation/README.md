@@ -18,8 +18,6 @@ Aggarwal, C.C. and Zhai, C., 2016. Recommender Systems: The Textbook. Springer.
 
 Koren, Y., Bell, R. and Volinsky, C., 2009. Matrix factorization techniques for recommender systems. Computer Science and Statistics: Proceedings of the 2009 New England Statistics Symposium, 1-8.
 
-Manyika, J., Silberg, J. and Presten, B. (2019) What do we do about the biases in ai?, Harvard Business Review. Available at: https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai (Accessed: 16 September 2024).
-
 Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y. and Basilico, J. (2021) “Deep Learning for Recommender Systems: A Netflix Case Study”, AI Magazine, 42(3), pp. 7-18. doi: 10.1609/aimag.v42i3.18140.
 
 Sarwar, B., Karypis, G., Konstan, J.A. and Riedl, J., 2001. Item-based collaborative filtering recommendation algorithms. Proceedings of the 10th International Conference on World Wide Web (WWW), pp.285-295.
