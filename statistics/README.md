@@ -2,7 +2,7 @@
 
 #### Exercise 7.1
 
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/c0e8bc840f11f22f78d08f81299990aba86a2497/ex7.1.png" alt="Corr Plot 1" style="width: 50%;"> 
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/a5874da781d9d0d970226719f8fb4f794eb540a9/ex7.1.png" alt="Corr Plot 1" style="width: 50%;"> 
 <p>Fig1: Agent 1 vs Agent 2</p>
 
 
