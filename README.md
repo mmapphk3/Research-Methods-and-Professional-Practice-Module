@@ -4,7 +4,5 @@ This e-portfolio captures my journey through the Research Methods and Profession
 
 ## Sections
 
-- [Module Activities]
-- [Statistical Activities]
-- [Evaluation of Assignments]
-- [Reflection Piece]
+-[Module Activities](activities/)
+
