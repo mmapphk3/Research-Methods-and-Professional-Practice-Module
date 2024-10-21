@@ -2,20 +2,15 @@
 
 #### Exercise 7.1
 
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/93b8f679510f2004346b6f9a88a085e3c9c5262e/pictures/ex7.1.png" alt="Agent 1 vs Agent 2" style="width: 300px; height: auto;">
-<p>Fig1: Agent 1 vs Agent 2 </p>
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/raw/main/pictures/ex7.1.png" alt="Corr Plot 1" style="width: 400px; height: auto;">
+<p>Fig1: Agent 1 vs Agent 2</p>
+
 
 The one-tailed paired t-test result for determining whether Filter Agent 1 (Con1) is more effective than Filter Agent 2 (Con2) yields a t-statistic of approximately 2.87 and a p-value of 0.0092. Since the p-value is less than 0.05, we reject the null hypothesis and conclude that Filter Agent 1 is statistically more effective than Filter Agent 2 at the 5% significance level.
 
 #### Exercise 7.2
 
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/bf6b3f1e17a3c4da6471add5419e06d4707bf933/pictures/ex7.2.png" alt="Male vs Female Income" style="width: 300px; height: auto;">
-<p>Fig2: Male Income vs Female Income </p>
-
 The obtained independent samples t-statistic is 3.27 with 118 degrees of freedom. The associated one-tailed p-value is  p = 0.0007, indicating that the observed t-value is significant at the 1% level (one-tailed). The sample mean income for males was found to be 52.91, while the mean income for females was 44.23. Therefore, the data provide strong evidence that the underlying mean income for males is significantly higher than that of females by an estimated difference of 52.91 - 44.23 = 8.68.
-
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/raw/main/pictures/ex7.1.png" alt="Corr Plot 1" style="width: 100%;">
-<p>Fig3: Dataset</p>
 
 These results strongly suggest that males, on average, earn more than females in the population. Given that the observed difference in mean incomes is statistically significant, we can conclude with confidence that the population mean income for males exceeds that of females.
 This analysis assumes that the data meet the assumptions of normality and equal variances, which underpin the validity of the t-test. To ensure robustness, it is recommended to check these assumptions using normality tests (e.g., Shapiro-Wilk) and tests for equal variances (e.g., Levene’s test). If any assumptions are violated, alternative statistical methods such as the Mann-Whitney U test should be considered.
