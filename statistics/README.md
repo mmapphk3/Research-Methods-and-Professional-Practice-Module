@@ -9,8 +9,8 @@ The one-tailed paired t-test result for determining whether Filter Agent 1 (Con1
 
 #### Exercise 7.2
 
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/93b8f679510f2004346b6f9a88a085e3c9c5262e/pictures/ex7.1.png" alt="Agent 1 vs Agent 2" style="width: 300px; height: auto;">
-<p>Fig1: Agent 1 vs Agent 2 </p>
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/bf6b3f1e17a3c4da6471add5419e06d4707bf933/pictures/ex7.2.png" alt="Male vs Female Income" style="width: 300px; height: auto;">
+<p>Fig2: Male Income vs Female Income </p>
 
 The obtained independent samples t-statistic is 3.27 with 118 degrees of freedom. The associated one-tailed p-value is  p = 0.0007, indicating that the observed t-value is significant at the 1% level (one-tailed). The sample mean income for males was found to be 52.91, while the mean income for females was 44.23. Therefore, the data provide strong evidence that the underlying mean income for males is significantly higher than that of females by an estimated difference of 52.91 - 44.23 = 8.68.
 
