@@ -1,12 +1,8 @@
 ### Reflective Activity 1 – Ethics in computing in the age of Generative AI
 
-Generative AI has transformed industries since late 2022, with Computer Science playing a key role (Hackningas, 2024). While AI is not new, rapid advancements like ChatGPT have raised governance concerns. Correa et al. (2023) emphasize the difficulty of reaching global consensus on AI regulation, as countries like China focus on state control, while the EU prioritizes privacy through regulations such as the AI Act.
+Generative AI has reshaped industries since 2022, with rapid advancements like ChatGPT raising governance concerns (Hackningas, 2024). Correa et al. (2023) point out challenges in global AI regulation, as countries like China focus on state control, while the EU prioritizes privacy through regulations like the AI Act. Generative AI’s ability to create content autonomously raises issues around privacy, intellectual property, and misinformation, with inconsistent guidelines risking either over-regulation or misuse.
 
-Generative AI, capable of autonomously creating content, presents unique challenges in privacy, intellectual property, and misinformation. Correa et al. argue that without unified guidelines, countries risk either stifling innovation or failing to curb AI misuse. Deckard (2023) proposes a multi-level governance model where international bodies establish ethical guidelines, and individual countries adapt them. Regulatory sandboxes could allow companies to test AI technologies safely (Krishnan, 2023).
-
-Generative AI affects legal, social, and professional sectors. Legally, the ownership of AI-generated content remains unclear (VP, 2023). Socially, deepfakes and manipulated media erode public trust (Kumar, 2023). Professionally, AI may automate tasks, pushing workers to develop new skills, such as AI literacy.
-
-Global cooperation is vital to address these challenges. A flexible international AI framework could establish common ethical standards, while public awareness campaigns inform society of AI's risks and benefits (Williams, 2024). Legal frameworks must address intellectual property and data ownership to ensure AI evolves ethically and responsibly.
+Deckard (2023) proposes a governance model combining global ethical rules with local adaptations, and Krishnan (2023) suggests regulatory sandboxes for safe AI experimentation. Legal questions over AI-generated content ownership (VP, 2023) and the rise of deepfakes (Kumar, 2023) erode public trust. Professionally, AI could automate jobs, requiring new skills like AI literacy. Global collaboration is crucial to establish ethical AI frameworks and address privacy and ownership concerns.
 
 ### Collab Discussion 1:
 
