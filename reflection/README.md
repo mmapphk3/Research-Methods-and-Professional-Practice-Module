@@ -34,3 +34,7 @@ The discussions on ethics and AI governance had a profound impact on how I think
 In addition to strengthening my research and statistical skills, this module has significantly improved my presentation skills. The process of creating and presenting my research proposal forced me to think carefully about how to communicate complex ideas clearly and persuasively. This skill is directly transferable to my current role as a data analyst, where clear communication of insights is crucial. I now feel more confident in delivering presentations, whether to colleagues or clients, and I am better equipped to explain the technical aspects of my work in an accessible way.
 
 The skills I’ve developed in critical thinking, research methodology, and statistical analysis are invaluable tools that I will continue to use throughout my career. The ethical lessons from this module will also guide me in making responsible decisions when handling data or designing algorithms. I plan to apply these skills and insights to future projects, ensuring that I not only deliver results but also uphold the highest standards of professionalism and ethical integrity.
+
+References
+
+Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y. and Basilico, J. (2021) “Deep Learning for Recommender Systems: A Netflix Case Study”, AI Magazine, 42(3), pp. 7-18. doi: 10.1609/aimag.v42i3.18140.
