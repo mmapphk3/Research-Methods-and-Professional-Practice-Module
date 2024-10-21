@@ -14,6 +14,9 @@ The one-tailed paired t-test result for determining whether Filter Agent 1 (Con1
 
 The obtained independent samples t-statistic is 3.27 with 118 degrees of freedom. The associated one-tailed p-value is  p = 0.0007, indicating that the observed t-value is significant at the 1% level (one-tailed). The sample mean income for males was found to be 52.91, while the mean income for females was 44.23. Therefore, the data provide strong evidence that the underlying mean income for males is significantly higher than that of females by an estimated difference of 52.91 - 44.23 = 8.68.
 
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/raw/main/pictures/ex7.1.png" alt="Corr Plot 1" style="width: 100%;">
+<p>Fig3: Dataset</p>
+
 These results strongly suggest that males, on average, earn more than females in the population. Given that the observed difference in mean incomes is statistically significant, we can conclude with confidence that the population mean income for males exceeds that of females.
 This analysis assumes that the data meet the assumptions of normality and equal variances, which underpin the validity of the t-test. To ensure robustness, it is recommended to check these assumptions using normality tests (e.g., Shapiro-Wilk) and tests for equal variances (e.g., Levene’s test). If any assumptions are violated, alternative statistical methods such as the Mann-Whitney U test should be considered.
 
