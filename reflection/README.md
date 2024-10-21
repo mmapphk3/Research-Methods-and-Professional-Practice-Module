@@ -1,5 +1,7 @@
 ### Reflective Piece
 
+#### View my complete e-portfolio by visiting the following web page address: https://mmapphk3.github.io/Research-Methods-and-Professional-Practice-Module/
+
 #### Module: Research Methods and Professional Practice
 
 The Research Methods and Professional Practice module has provided me with a well-rounded foundation in both the theoretical and practical aspects of research, especially in the context of ethics and emerging technologies like generative AI. Through various reflective activities, collaborative discussions, statistical exercises, and a research proposal, I have developed skills that will significantly benefit my professional career as a data analyst.
