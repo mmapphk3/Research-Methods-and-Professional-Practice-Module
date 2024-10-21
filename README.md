@@ -7,5 +7,6 @@ This e-portfolio captures my journey through the Research Methods and Profession
 - [Module Activities](activities/)
 - [Statistical Worksheets](statistics/)
 - [Evaluation of Assignments](evaluation/)
+- [Module Reflection](reflection/)
   
 
