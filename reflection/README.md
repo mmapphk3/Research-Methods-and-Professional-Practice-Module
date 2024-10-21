@@ -38,3 +38,7 @@ The skills I’ve developed in critical thinking, research methodology, and stat
 References
 
 Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y. and Basilico, J. (2021) “Deep Learning for Recommender Systems: A Netflix Case Study”, AI Magazine, 42(3), pp. 7-18. doi: 10.1609/aimag.v42i3.18140.
+
+Correa, J., Montoya, J., Lopez, A. and Perez, D. (2023) 'Global diversity in AI governance: Challenges and opportunities', AI and Ethics, 7(3), pp. 456-470. Available at: https://www.sciencedirect.com/science/article/pii/S2666389923002416 (Accessed: 19 October 2024).
+
+Deckard, R. (2023) What are ethics in AI, BCS. Available at: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ (Accessed: 19 October 2024).
