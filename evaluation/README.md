@@ -14,8 +14,6 @@ The project aims to demonstrate that clustering can significantly enhance Spotif
 
 References
 
-Aggarwal, C.C. and Zhai, C., 2016. Recommender Systems: The Textbook. Springer.
-
 Koren, Y., Bell, R. and Volinsky, C., 2009. Matrix factorization techniques for recommender systems. Computer Science and Statistics: Proceedings of the 2009 New England Statistics Symposium, 1-8.
 
 Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y. and Basilico, J. (2021) “Deep Learning for Recommender Systems: A Netflix Case Study”, AI Magazine, 42(3), pp. 7-18. doi: 10.1609/aimag.v42i3.18140.
