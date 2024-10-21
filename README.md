@@ -5,4 +5,5 @@ This e-portfolio captures my journey through the Research Methods and Profession
 ## Sections
 
 [Module Activities](activities/)
+[Statistical Worksheets](statistics/)
 
